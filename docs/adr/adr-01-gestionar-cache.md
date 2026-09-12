@@ -1,6 +1,6 @@
 # Uso de Redis como memoria caché
 
-* **Estado:** Propuesto
+* **Estado:** Aprobado
 * **Decidentes:** Juan Esteban Jaramillo Ramírez
 * **Fecha:** 2026-09-02
 

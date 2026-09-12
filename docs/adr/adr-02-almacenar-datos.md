@@ -1,6 +1,6 @@
 # Selección de PostgreSQL como Motor de Bases de Datos
 
-* **Estado:** Propuesto
+* **Estado:** Aprobado
 * **Decidentes:** Juan Esteban Jaramillo Ramírez
 * **Fecha:** 2026-09-04
 

@@ -1,6 +1,6 @@
 # Versionar las URLs de los Códigos QR
 
-* **Estado:** Propuesto
+* **Estado:** Aprobado
 * **Decidentes:** Juan Esteban Jaramillo Ramírez
 * **Fecha:** 2026-09-05
 

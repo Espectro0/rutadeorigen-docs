@@ -1,6 +1,6 @@
 # Auditar Cambios
 
-* **Estado:** Propuesto
+* **Estado:** Reemplazado
 * **Decidentes:** Juan Esteban Jaramillo Ramírez
 * **Fecha:** 2026-09-05
 
@@ -72,5 +72,6 @@ Cada modificación o eliminación se emite como un evento de auditoría hacia Wo
 
 ## Enlaces
 
+* [Reemplazado por] [ADR-20: Migrar la Auditoría de Cambios a Retraced Autoalojado](./adr-20-migrar-auditoria-retraced.md)
 * [Relacionado con] [ADR-02: Selección de PostgreSQL como Motor de Bases de Datos](./adr-02-almacenar-datos.md)
 * [Relacionado con] [ADR-12: Proteger Servicios Externos](./adr-12-proteger-servicios.md)

@@ -1,6 +1,6 @@
 # Selección de Go como Lenguaje y Runtime del Backend
 
-* **Estado:** Propuesto
+* **Estado:** Aprobado
 * **Decidentes:** Juan Esteban Jaramillo Ramírez
 * **Fecha:** 2026-09-04
 
