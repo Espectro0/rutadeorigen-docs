@@ -88,4 +88,3 @@ Motor de base de datos relacional propietario de Microsoft, con soporte completo
 
 * [Relacionado con] [ADR-01: Uso de Redis como memoria caché](./adr-01-gestionar-cache.md)
 * [Relacionado con] [ADR-03: Selección de Go como Lenguaje y Runtime del Backend](./adr-03-definir-runtime.md)
-* [Relacionado con] [ADR-04: Selección de Ent como Capa de Acceso a Datos (ORM)](./adr-04-seleccionar-orm.md)
