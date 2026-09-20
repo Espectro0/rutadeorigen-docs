@@ -73,3 +73,4 @@ Cada cambio de estructura de URLs o de dominio se registra como un mapeo desde l
 * [Relacionado con] [ADR-01: Uso de Redis como memoria caché](./adr-01-gestionar-cache.md)
 * [Relacionado con] [ADR-02: Selección de PostgreSQL como Motor de Bases de Datos](./adr-02-almacenar-datos.md)
 * [Requiere] Definición de un proceso operativo que garantice registrar cada redirección al cambiar la estructura de URLs
+* [Relacionado con] [ADR-23: Generar el Código QR de cada Lote](./adr-23-generar-codigos-qr.md)

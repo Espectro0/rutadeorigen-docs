@@ -1,0 +1,7 @@
+FROM postgres:16-bookworm
+
+# pgBackRest se instala junto a Postgres porque necesita acceso directo al PGDATA
+# para leer y archivar los segmentos de WAL (archive_command corre en este mismo contenedor).
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends pgbackrest ca-certificates \
+    && rm -rf /var/lib/apt/lists/*

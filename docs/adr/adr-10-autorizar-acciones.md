@@ -71,3 +71,4 @@ El mismo proveedor de identidad gestiona los permisos del usuario mediante scope
 ## Enlaces
 
 * [Relacionado con] [ADR-09: Autenticar Usuarios](./adr-09-autenticar-usuarios.md)
+* [Validado por] [PoC 02: Sistema de Autorización Basada en Atributos (ABAC)](../poc/poc-02-casbin-abac/README.md)

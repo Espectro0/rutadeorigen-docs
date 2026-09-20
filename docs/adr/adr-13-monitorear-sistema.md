@@ -78,3 +78,4 @@ El sistema únicamente registra eventos como logs estructurados, sin un mecanism
 * [Relacionado con] [ADR-09: Autenticar Usuarios](./adr-09-autenticar-usuarios.md)
 * [Relacionado con] [ADR-12: Proteger Servicios Externos](./adr-12-proteger-servicios.md)
 * [Relacionado con] [ADR-15: Orquestar Contenedores para Escalado Horizontal](./adr-15-orquestar-contenedores.md)
+* [Relacionado con] [ADR-21: Exponer los Servicios mediante un Reverse Proxy](./adr-21-exponer-servicios.md)

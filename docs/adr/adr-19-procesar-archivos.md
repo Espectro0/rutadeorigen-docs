@@ -70,3 +70,4 @@ El equipo escribe su propia lógica de compresión de imágenes, transcodificaci
 
 * [Relacionado con] [ADR-07: Almacenar Evidencias como Objetos](./adr-07-almacenar-evidencias.md)
 * [Relacionado con] [ADR-08: Encolar Tareas Pesadas](./adr-08-encolar-tareas.md)
+* [Validado por] [PoC 06: Procesamiento de Archivos antes de Almacenarlos](../poc/poc-06-procesamiento-archivos/README.md)

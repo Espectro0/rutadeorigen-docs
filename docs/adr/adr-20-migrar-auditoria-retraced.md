@@ -73,3 +73,5 @@ Ya evaluada y descartada en el ADR-11 por competir por recursos e índices con l
 * [Relacionado con] [ADR-02: Selección de PostgreSQL como Motor de Bases de Datos](./adr-02-almacenar-datos.md)
 * [Relacionado con] [ADR-07: Almacenar Evidencias como Objetos](./adr-07-almacenar-evidencias.md)
 * [Relacionado con] [ADR-12: Proteger Servicios Externos](./adr-12-proteger-servicios.md)
+* [Validado por] [PoC 07: Auditoría de Cambios con Retraced Autoalojado](../poc/poc-07-retraced-auditoria/README.md)
+* [Relacionado con] [ADR-21: Exponer los Servicios mediante un Reverse Proxy](./adr-21-exponer-servicios.md)

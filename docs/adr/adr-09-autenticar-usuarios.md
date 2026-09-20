@@ -74,3 +74,4 @@ Un proveedor de identidad externo gestiona el registro, la autenticación y la d
 * [Relacionado con] [ADR-10: Autorizar Acciones](./adr-10-autorizar-acciones.md)
 * [Relacionado con] [ADR-12: Proteger Servicios Externos](./adr-12-proteger-servicios.md)
 * [Relacionado con] [ADR-18: Notificar Invitaciones a una Organización](./adr-18-notificar-invitaciones.md)
+* [Validado por] [PoC 03: Autenticación OAuth2/OIDC con WorkOS AuthKit](../poc/poc-03-oauth-oidc/README.md)

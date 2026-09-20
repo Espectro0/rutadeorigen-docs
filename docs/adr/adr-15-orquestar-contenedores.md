@@ -87,3 +87,4 @@ Orquestador de cargas de trabajo de propósito más general que Kubernetes, capa
 * [Relacionado con] [ADR-01: Uso de Redis como memoria caché](./adr-01-gestionar-cache.md)
 * [Relacionado con] [ADR-13: Monitorear el Sistema](./adr-13-monitorear-sistema.md)
 * [Requiere] Instalación y configuración de un adaptador de métricas (`prometheus-adapter`) para que el autoescalado horizontal reaccione a las métricas ya definidas en Prometheus/Grafana, más allá de CPU/memoria
+* [Relacionado con] [ADR-21: Exponer los Servicios mediante un Reverse Proxy](./adr-21-exponer-servicios.md)

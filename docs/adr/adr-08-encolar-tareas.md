@@ -75,3 +75,5 @@ El propio proceso del backend lanza goroutines para ejecutar tareas en segundo p
 
 * [Relacionado con] [ADR-01: Uso de Redis como memoria caché](./adr-01-gestionar-cache.md)
 * [Relacionado con] [ADR-18: Notificar Invitaciones a una Organización](./adr-18-notificar-invitaciones.md)
+* [Validado por] [PoC 01: Sistema de tareas mediante una cola (RabbitMQ)](../poc/poc-01-rabbitqm-colas/README.md)
+* [Relacionado con] [ADR-23: Generar el Código QR de cada Lote](./adr-23-generar-codigos-qr.md)

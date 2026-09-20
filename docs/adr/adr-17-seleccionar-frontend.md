@@ -87,3 +87,4 @@ Framework orientado a contenido mayormente estático, que envía cero JavaScript
 ## Enlaces
 
 * Ninguno — esta es la primera decisión específica de frontend dentro del conjunto de ADR.
+* [Relacionado con] [ADR-22: Internacionalizar la Interfaz con un Catálogo de Mensajes](./adr-22-internacionalizar-interfaz.md)

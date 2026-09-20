@@ -73,3 +73,5 @@ Cada llamada a un servicio externo se reintenta con backoff exponencial ante un 
 * [Relacionado con] [ADR-11: Auditar Cambios](./adr-11-auditar-cambios.md)
 * [Relacionado con] [ADR-14: Integrar Asistente de IA de Trazabilidad](./adr-14-integrar-asistente-ia.md)
 * [Relacionado con] [ADR-18: Notificar Invitaciones a una Organización](./adr-18-notificar-invitaciones.md)
+* [Validado por] [PoC 05: Circuit Breaker para Proteger Servicios Externos](../poc/poc-05-circuit-breaker/README.md)
+* [Relacionado con] [ADR-23: Generar el Código QR de cada Lote](./adr-23-generar-codigos-qr.md)

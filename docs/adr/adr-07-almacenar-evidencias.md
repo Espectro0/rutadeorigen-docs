@@ -80,3 +80,5 @@ Servicio de almacenamiento de objetos administrado por Cloudflare, compatible co
 
 * [Relacionado con] [ADR-02: Selección de PostgreSQL como Motor de Bases de Datos](./adr-02-almacenar-datos.md)
 * [Relacionado con] [ADR-06: Respaldar y Recuperar Datos ante Desastres](./adr-06-respaldar-datos.md)
+* [Relacionado con] [ADR-21: Exponer los Servicios mediante un Reverse Proxy](./adr-21-exponer-servicios.md)
+* [Relacionado con] [ADR-23: Generar el Código QR de cada Lote](./adr-23-generar-codigos-qr.md)

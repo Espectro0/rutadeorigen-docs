@@ -70,3 +70,4 @@ Una réplica de la base de datos se mantiene sincronizada en tiempo real con la 
 ## Enlaces
 
 * [Relacionado con] [ADR-02: Selección de PostgreSQL como Motor de Bases de Datos](./adr-02-almacenar-datos.md)
+* [Validado por] [PoC 08: Respaldo y Recuperación de Postgres con pgBackRest hacia MinIO](../poc/poc-08-backups-db/README.md)

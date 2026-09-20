@@ -74,3 +74,4 @@ Un proveedor externo centraliza las plantillas y decide por qué canal (email, p
 * [Relacionado con] [ADR-08: Encolar Tareas Pesadas](./adr-08-encolar-tareas.md)
 * [Relacionado con] [ADR-09: Autenticar Usuarios](./adr-09-autenticar-usuarios.md)
 * [Relacionado con] [ADR-12: Proteger Servicios Externos](./adr-12-proteger-servicios.md)
+* [Validado por] [PoC 04: Envío de correos transaccionales con Resend](../poc/poc-04-resend-emails/README.md)
