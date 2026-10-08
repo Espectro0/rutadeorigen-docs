@@ -1,6 +1,6 @@
 # Generar el Código QR de cada Lote
 
-* **Estado:** Aprobado
+* **Estado:** Reemplazado
 * **Decidentes:** Juan Esteban Jaramillo Ramírez
 * **Fecha:** 2026-09-20
 
@@ -72,6 +72,7 @@ Un proveedor externo recibe la URL del lote y devuelve la imagen del QR ya gener
 
 ## Enlaces
 
+* [Reemplazado por] [ADR-25: Migrar la Generación de Códigos QR al Servicio de QR](./adr-25-migrar-generacion-qr.md)
 * [Relacionado con] [ADR-16: Versionar las URLs de los Códigos QR](./adr-16-versionar-urls.md)
 * [Relacionado con] [ADR-08: Encolar Tareas Pesadas](./adr-08-encolar-tareas.md)
 * [Relacionado con] [ADR-07: Almacenar Evidencias como Objetos](./adr-07-almacenar-evidencias.md)
