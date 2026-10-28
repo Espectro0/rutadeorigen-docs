@@ -116,7 +116,7 @@ Se le permite a cada uno de los **actores identificados** dentro del sistema, de
 | **Total** | **66** | **66** | **66** | **66** | **100%** |
 
 *(Se anexa **mapa de empatía** definiendo para cada usuario cual es **su prioridad** y qué es lo que **más espera** dentro del sistema.)*
-![Emphaty Map](./EmphatyMap.png)
+![Emphaty Map](./images/EmphatyMap.png)
 
 ### 5.3 Escenarios de Calidad
 
