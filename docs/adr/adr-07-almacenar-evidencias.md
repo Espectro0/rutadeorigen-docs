@@ -1,6 +1,6 @@
 # Almacenar Evidencias como Objetos
 
-* **Estado:** Aprobado
+* **Estado:** Reemplazado
 * **Decidentes:** Juan Esteban Jaramillo Ramírez
 * **Fecha:** 2026-09-05
 
